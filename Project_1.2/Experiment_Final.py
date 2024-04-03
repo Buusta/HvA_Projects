@@ -11,7 +11,7 @@ channels = 1  # Number of audio channels
 
 # Settings for the recording
 record_time = 1  # Duration of the recording in seconds
-ddb_gekalibreert = 35  # Calibrated value in dB
+ddb_calibration = 25  # Calibrated value of change in dB
 
 # Parameters for smoothing the audio data
 chunk_size = 1250  # Size of chunks for smoothing
